@@ -1,7 +1,7 @@
 {
   "name": "test-app",
   "version": "1.0.0",
-  "main": "expo-router/entry",
+  "main": "./src/index.tsx",
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
