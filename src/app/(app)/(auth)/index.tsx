@@ -1,7 +1,6 @@
 import { Stack } from 'expo-router';
+import { Text } from 'react-native';
 
-export default function AuthPage() {
-    return (
-        <Stack.Screen name="test" />
-    );
+export default function AuthIndex() {
+    return <Text>Auth Index</Text>
 }
